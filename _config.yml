@@ -16,7 +16,7 @@ timezone: America/Chicago
 
 title: Dan Moberly # the main title
 
-tagline: A place for my stuff # it will display as the subtitle
+tagline: Rediscovering creativity # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A collection of thoughts and things that I want to share.
@@ -42,7 +42,7 @@ social:
     - https://twitter.com/DanMoberly72 # change to your Twitter homepage
     - https://github.com/dmoberly # change to your GitHub homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
+    - https://www.youtube.com/@dmoberly
     # - https://www.linkedin.com/in/username
 
 # Site Verification Settings
