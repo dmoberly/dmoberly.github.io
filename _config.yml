@@ -153,6 +153,10 @@ paginate: 10
 # The base URL of your site
 baseurl: ""
 
+# Plugins for additional functionality
+plugins: 
+  - jekyll-target-blank
+
 # ------------ The following options are not recommended to be modified ------------------
 
 kramdown:
