@@ -1,0 +1,11 @@
+.image-gallery-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 10px;
+}
+
+.image-gallery-container p {
+    width: 100%;
+    height: auto;
+    display: block;
+}
