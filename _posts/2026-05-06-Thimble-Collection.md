@@ -1,13 +1,13 @@
 ---
 title: Thimble Collection
-date: 2026-5-6 21:30:00 -500
+date: 2026-5-7 00:45:00 -500
 categories: [Curation]
 tags: [photography, cataloging]
 css: "image-gallery.css"
 ---
 
 This is my thimble collection. I inherited most of them from my grandma on my mom's side, Mary. She was a big quilter and I always loved playing with her many different thimbles. I've since added a few of my own that I've collected while travelling with my family and I hope to add many more in the future. The collection is displayed in our dining room on a vintage type case mounted to the wall that is perfect for small items like thimbles.  
-I have been interested in the idea of photo cataloguing for a while now. I had seen things like this collection of [restaurant postcards](https://www.flickr.com/groups/vintage_restaurant_postcards/pool/) or these Chinese [cigarette packs](http://www.ciggies.app) and I liked the idea of bringing physical objects into the digital world. So I decided to try my hand at it and it was a pretty satisfying experience!  
+I have been interested in the idea of photo cataloguing for a while now. I had seen things like this collection of [restaurant postcards](https://www.flickr.com/groups/vintage_restaurant_postcards/pool/) or these Chinese [cigarette packs](https://www.ciggies.app) and I liked the idea of bringing physical objects into the digital world. So I decided to try my hand at it and it was a pretty satisfying experience!  
 I used the white back of a poster for my surface and I set it up on a table next to a window with lots of indirect light. I took a piece of white cardboard and propped it up vertically on the opposite side so that the light would reflect back on the thimbles and soften the shadows. I mounted my phone to a small flexible tripod and got it in just the right position and then I started taking pictures of them one-by-one. I occasionally adjusted the brightness on the camera to make sure the designs were fully visible. Once I was done, I wenth through them on my computer and manually cropped each of them to the same aspect ratio and ensured that they were all centered. Finally, I renamed them and uploaded them to the site. (Getting the grid layout below was actually a fun little challenge of its own, but that is maybe a post for another day.)  
 Overall, I'm happy with it! I think I might come back to it and see if I can add some captions. Inside a lot of the thimbles there are stamps with manufacturing information that I think would be cool to include with the photos. I'd also like to be able to include memos for the ones I've aquired myself so I can remember when and where I got them. For now though, just enjoy the photos!
 
