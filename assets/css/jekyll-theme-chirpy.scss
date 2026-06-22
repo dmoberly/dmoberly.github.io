@@ -2,11 +2,27 @@
 ---
 @use "main";
 
-// Override site title font size
-.site-title {
-    font-size: 1.25rem !important;
-}
+/* Target the sidebar avatar layout wrapper */
+#sidebar {
+  #avatar {
+    /* 1. Kill the default circular mask and padding */
+    border-radius: 0 !important; 
+    box-shadow: none !important;
+    padding: 0 !important;
+    border: none !important;
+    
+    /* 2. Force the container to span the full width of the sidebar layout */
+    width: 100% !important;
+    height: auto !important;
+    max-width: 100% !important;
 
-#sidebar #avatar {
-    box-shadow: 0 0 0 0 var(--color-bg) !important;
+    /* 3. Force the underlying image element to override its inline 112px attributes */
+    img {
+      width: 100% !important;
+      height: auto !important;
+      max-width: 100% !important;
+      border-radius: 0 !important; /* Ensures the image itself isn't clipped into a circle */
+      object-fit: contain;
+    }
+  }
 }
