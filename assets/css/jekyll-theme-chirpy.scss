@@ -1,0 +1,48 @@
+---
+---
+/* prettier-ignore */
+@use 'main {%- if jekyll.environment == 'production' -%} .bundle {%- endif -%} ';
+
+/* ==========================================================================
+   Shieldbreak Archive Custom Layout Overrides
+   ========================================================================== */
+
+/* 1. Force Logo to Fill the Top Left Area and Strip Default Circular Styling */
+#sidebar {
+  .profile-wrapper {
+    padding: 0 !important;
+    
+    a#avatar {
+      display: block !important;
+      width: 100% !important;
+      height: auto !important;
+      max-width: 100% !important;
+      border-radius: 0 !important;
+      box-shadow: none !important;
+      border: none !important;      
+      background: none !important;  
+      padding: 0 !important;
+
+      img {
+        width: 100% !important;
+        height: auto !important;
+        max-width: 100% !important;
+        border-radius: 0 !important; 
+        object-fit: contain !important;
+      }
+    }
+  }
+
+  /* 2. Format the Custom Site Title Font styling */
+  .site-title {
+    font-size: 1.4rem !important;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    margin-top: 15px !important;
+    
+    a {
+      font-size: inherit !important;
+      color: #fff !important;
+    }
+  }
+}
