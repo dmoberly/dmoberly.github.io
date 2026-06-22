@@ -1,28 +1,39 @@
 ---
 ---
-@use "main";
+@use 'main';
 
-/* Target the sidebar avatar layout wrapper */
+/* Your custom style overrides must stay below the @use statement */
+
 #sidebar {
-  #avatar {
-    /* 1. Kill the default circular mask and padding */
-    border-radius: 0 !important; 
-    box-shadow: none !important;
+  .profile-wrapper {
     padding: 0 !important;
-    border: none !important;
     
-    /* 2. Force the container to span the full width of the sidebar layout */
-    width: 100% !important;
-    height: auto !important;
-    max-width: 100% !important;
-
-    /* 3. Force the underlying image element to override its inline 112px attributes */
-    img {
+    #avatar {
+      display: block !important;
       width: 100% !important;
       height: auto !important;
       max-width: 100% !important;
-      border-radius: 0 !important; /* Ensures the image itself isn't clipped into a circle */
-      object-fit: contain;
+      border-radius: 0 !important;
+      box-shadow: none !important;
+      border: none !important;
+
+      img {
+        width: 100% !important;
+        height: auto !important;
+        border-radius: 0 !important;
+        object-fit: contain;
+      }
+    }
+  }
+
+  .site-title {
+    font-size: 1.5rem !important;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    
+    a {
+      font-size: inherit !important;
+      color: #fff !important;
     }
   }
 }
