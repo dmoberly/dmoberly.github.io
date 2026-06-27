@@ -1,8 +1,8 @@
 ---
 title: Album Posters Project
 date: 2026-4-29 23:55:00 -500
-categories: [Art]
-tags: [art, music, graphic design]
+categories: [Design]
+tags: [design, art, music, graphic design]
 ---
 
 ### Some context
